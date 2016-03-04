@@ -1,3 +1,12 @@
+linux (4.4.4-2+1clear) UNRELEASED; urgency=medium
+
+  * introduce host and kvm kernel featuresets
+  * include latest clear linux host/kvm patches
+  * include bcache stability patches
+  * disable xen and rt patches on x86
+
+ -- Luka Blaskovic <lblasc@tvbeat.com>  Fri, 04 Mar 2016 12:31:22 +0000
+
 linux (4.4.4-1) unstable; urgency=medium
 
   [ Salvatore Bonaccorso ]

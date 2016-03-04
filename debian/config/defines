@@ -1,5 +1,5 @@
 [abi]
-abiname: 1
+abiname: 1cl
 ignore-changes:
 # Not used by OOT modules
  __scm_destroy
@@ -44,7 +44,6 @@ arches:
 compiler: gcc-4.9
 featuresets:
  none
- rt
 
 [featureset-rt_base]
 enabled: true

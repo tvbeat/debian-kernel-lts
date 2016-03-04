@@ -1,0 +1,16 @@
+features/clearlinux-kvm/0002-cpuidle-skip-synchronize_rcu-on-single-CPU-systems.patch
+features/clearlinux-kvm/0003-sysrq-skip-synchronize_rcu-if-there-is-no-old-op.patch
+features/clearlinux-kvm/0004-fbcon-enable-no-blink-by-default.patch
+features/clearlinux-kvm/0005-vmstats-wakeups.patch
+features/clearlinux-kvm/0006-pci-probe.patch
+features/clearlinux-kvm/0007-cgroup.patch
+features/clearlinux-kvm/0008-smpboot.patch
+features/clearlinux-kvm/0009-perf.patch
+features/clearlinux-kvm/0010-sched-fair-tweak-the-scheduler-to-favor-CPU-0.patch
+features/clearlinux-kvm/0011-pci-probe-identify-known-devices.patch
+features/clearlinux-kvm/0012-init-no-wait-for-the-known-devices.patch
+features/clearlinux-kvm/0013-fork-turn-mmput-into-an-async-function.patch
+features/clearlinux-kvm/0015-cpuidle-x86-increase-forced-cut-off-for-polling-to-2.patch
+features/clearlinux-kvm/0016-cpuidle-menu-use-interactivity_req-to-disable-pollin.patch
+features/clearlinux-kvm/0017-cpuidle-menu-smooth-out-measured_us-calculation.patch
+features/clearlinux-kvm/0018-init-do_mounts-recreate-dev-root.patch

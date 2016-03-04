@@ -1,0 +1,17 @@
+features/clearlinux-host/0001-init-don-t-wait-for-PS-2-at-boot.patch
+features/clearlinux-host/0002-sched-tweak-the-scheduler-to-favor-CPU-0.patch
+features/clearlinux-host/0003-kvm-silence-kvm-unhandled-rdmsr.patch
+features/clearlinux-host/0004-intel_idle-tweak-HSW-cpuidle-cstates.patch
+features/clearlinux-host/0005-intel_idle-tweak-BDW-cpuidle-cstates.patch
+features/clearlinux-host/0006-i8042-decrease-debug-message-level-to-info.patch
+features/clearlinux-host/0007-raid6-reduce-boot-time.patch
+features/clearlinux-host/0008-net-tcp-reduce-minimal-ack-time-down-from-40-msec.patch
+features/clearlinux-host/0009-cpuidle-x86-increase-forced-cut-off-for-polling-to-2.patch
+features/clearlinux-host/0010-cpuidle-menu-use-interactivity_req-to-disable-pollin.patch
+features/clearlinux-host/0011-cpuidle-menu-smooth-out-measured_us-calculation.patch
+features/clearlinux-host/0012-init-do_mounts-recreate-dev-root.patch
+features/clearlinux-host/0013-Increase-the-ext4-default-commit-age.patch
+features/clearlinux-host/silence-rapl.patch
+features/clearlinux-host/9001-bcache-fix-race-of-writeback-thread-starting-before-complete-initialization.patch
+features/clearlinux-host/9002-bcache-cleaned-up-error-handling-around-register_cache.patch
+

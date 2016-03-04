@@ -2,7 +2,6 @@
 compiler: gcc-5
 featuresets:
  none
- rt
 kernel-arch: x86
 
 [build]
